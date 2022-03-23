@@ -1,4 +1,4 @@
-% For stimulus and k filter only
+% For k filter only
 % Gradient:  dl = (rate - spc)*Xstim
 
 
